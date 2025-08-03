@@ -1,0 +1,28 @@
+<VAST version="2.0">
+  <Ad id="vast001">
+    <InLine>
+      <AdSystem>Custom</AdSystem>
+      <AdTitle>Save Our Seas PSA</AdTitle>
+      <Impression><![CDATA[https://vasttest.github.io/ads/impression]]></Impression>
+      <Creatives>
+        <Creative>
+          <Linear>
+            <Duration>00:00:30</Duration>
+            <TrackingEvents>
+              <Tracking event="start"><![CDATA[https://vasttest.github.io/ads/start]]></Tracking>
+              <Tracking event="complete"><![CDATA[https://vasttest.github.io/ads/complete]]></Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickThrough><![CDATA[https://youtu.be/uia8aoZuYy0?si=Ge2dLnNlORn7-y4j]]></ClickThrough>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="video/mp4" width="1280" height="720">
+                <![CDATA[https://vasttest.github.io/ads/Save-Our-Seas-PSA.mp4]]>
+              </MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
