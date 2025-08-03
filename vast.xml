@@ -1,24 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <VAST version="3.0">
   <Ad id="001">
     <InLine>
       <AdSystem version="1.0">TestAdSystem</AdSystem>
       <AdTitle>My VAST Ad</AdTitle>
-      <Impression><![CDATA[https://vasttest.github.io/ads/impression]]></Impression>
+      <Impression>
+        <![CDATA[ https://vasttest.github.io/ads/impression ]]>
+      </Impression>
       <Creatives>
         <Creative>
           <Linear skipoffset="00:00:05">
             <Duration>00:00:30</Duration>
             <TrackingEvents>
-              <Tracking event="start"><![CDATA[https://vasttest.github.io/ads/start]]></Tracking>
-              <Tracking event="complete"><![CDATA[https://vasttest.github.io/ads/complete]]></Tracking>
+              <Tracking event="start">
+                <![CDATA[ https://vasttest.github.io/ads/start ]]>
+              </Tracking>
+              <Tracking event="complete">
+                <![CDATA[ https://vasttest.github.io/ads/complete ]]>
+              </Tracking>
             </TrackingEvents>
             <VideoClicks>
-              <ClickThrough><![CDATA[https://youtube.com]]></ClickThrough>
+              <ClickThrough>
+                <![CDATA[ https://example.com ]]>
+              </ClickThrough>
             </VideoClicks>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="640" height="360" bitrate="512">
-                <![CDATA[https://cdn.bunny.sh/videos/bunny.mp4]]>
+                <![CDATA[ https://vasttest.github.io/Save-Our-Seas-PSA.mp4 ]]>
               </MediaFile>
             </MediaFiles>
           </Linear>
