@@ -17,7 +17,7 @@
             </VideoClicks>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="1280" height="720">
-                <![CDATA[https://vasttest.github.io/ads/Save-Our-Seas-PSA.mp4]]>
+                <![CDATA[https://cdn.bunny.sh/videos/bunny.mp4]]>
               </MediaFile>
             </MediaFiles>
           </Linear>
