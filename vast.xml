@@ -20,7 +20,7 @@
             </TrackingEvents>
             <VideoClicks>
               <ClickThrough>
-                <![CDATA[ https://example.com ]]>
+                <![CDATA[ https://youtu.be/uia8aoZuYy0?si=rlip6HJRO2E-VPmI ]]>
               </ClickThrough>
             </VideoClicks>
             <MediaFiles>
@@ -34,3 +34,4 @@
     </InLine>
   </Ad>
 </VAST>
+
