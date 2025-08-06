@@ -25,7 +25,7 @@
             </VideoClicks>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="1280" height="720" bitrate="800">
-                <![CDATA[ https://vasttest.github.io/Save-Our-Seas-PSA.mp4 ]]>
+                <![CDATA[ https://vasttest.github.io/2nd.MP4 ]]>
               </MediaFile>
             </MediaFiles>
           </Linear>
@@ -34,4 +34,5 @@
     </InLine>
   </Ad>
 </VAST>
+
 
